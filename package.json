@@ -1,0 +1,25 @@
+{
+  "name": "use-mask-money",
+  "version": "1.0.2",
+  "main": "src/useMaskMoney.js",
+  "type": "module",
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "keywords": [
+    "nuxt",
+    "vue",
+    "mask",
+    "money",
+    "composable",
+    "hide information"
+  ],
+  "description": "A simple Nuxt composable to toggle masking and unmasking of monetary values.",
+  "author": "Takondwa Kapyola <takondwakapyola@gmail.com>",
+  "license": "MIT"
+}
+
+
+
+
+
